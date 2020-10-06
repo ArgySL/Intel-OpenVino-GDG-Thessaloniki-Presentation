@@ -1,0 +1,1 @@
+# Intel-OpenVino-GDG-Thessaloniki-Presentation
